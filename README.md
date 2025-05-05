@@ -1,2 +1,15 @@
-# urban_graph_characterisation
-Urban module to work with clustering of the graph. 
+# Urban graph characterisation
+
+Urban module to work with clustering of graphs.
+Notebooks, to each of the task of the module (Модуль ФД1):
+
+1. Сlustering of urban graph. We can use several algorithms (Girvan-Newman, Louvain, Spectral Clustering, Label Propagation). We download the data from osmnx module.
+2. Classification of graph into urban / sub-urban types: challenge here is that different urban graphs have different measures. We test this on 100 of city graphs applying approach from non-isomorphic graph types characterisation. 
+3. Recommendation of properties of urban graphs given the selected type (urban / sub-urban) or land-use area. 
+
+
+1. Скачать или сгенерировать данные городов с osmnx.
+2. Выделить подграф из графа данных (osmnx).
+    Кластеризация подграфа по типу (urban / sub-urban / periphery... )
+3. Рекоммендовать измененные новые свойства городских графов.
+
