@@ -12,6 +12,9 @@ Notebooks, to each of the task of the module (Модуль ФД1):
 ## Data 
 
 Data are located in the folder town_suburb_village.zip and downloaded from osmnx given the city attribute. 
+More data can be loaded using the code from https://github.com/romanroff/Job/blob/main/notebooks/download_graphs.ipynb
+Ready to use and train the data you can use the data from 
+https://github.com/Liyubov/urban_graph_characterisation/blob/main/town_suburb_village.zip
 
 # Описание алгоритмов с osmnx urban graph characterisation 
 
